@@ -1,3 +1,5 @@
+# 4개 좌표 회전시키고, 정사각형으로 그려서 시각화
+
 import numpy as np
 import matplotlib.pyplot as plt
 

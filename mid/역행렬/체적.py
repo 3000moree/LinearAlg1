@@ -1,3 +1,5 @@
+#3차원 벡터의 행렬식 = 체적
+
 import numpy as np
 #3차원 벡터
 u1 = np.array([1, 1, 0], dtype = float)

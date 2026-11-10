@@ -1,3 +1,5 @@
+#LU행렬 만들기
+
 from fractions import Fraction
 
 #행렬을 예쁘게 출력

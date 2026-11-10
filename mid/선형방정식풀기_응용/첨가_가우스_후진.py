@@ -1,3 +1,5 @@
+#첨가행렬(A | b)로 만들고, 가우스 소거로 상부삼각행렬 만들고, 후진대입으로 해 찾기
+
 from fractions import Fraction
 
 #첨가행렬 출력

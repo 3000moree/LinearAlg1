@@ -1,3 +1,5 @@
+# 선형시스템을 첨가행렬(A | b)로 만들고(표현하고), 가우스 조단 소거법으로 A를 단위행렬로 만들고, 최종 M(행렬 A)에서 for문으로 해 출력
+
 from fractions import Fraction
 
 #첨가행렬 출력

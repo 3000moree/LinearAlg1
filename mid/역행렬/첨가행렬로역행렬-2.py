@@ -1,4 +1,4 @@
-#첨가행렬로 역행렬 구하기
+#첨가행렬(A | I로 역행렬 구하기
 import numpy as np
 np.set_printoptions(suppress=True, precision=2)
 
